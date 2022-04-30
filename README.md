@@ -17,7 +17,7 @@
 
     - npm test
 
-# Step to deploy the app
+# Steps to deploy the app
 
     - npm run build;
     - the build will be available in the "build" folder;
