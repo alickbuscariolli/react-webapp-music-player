@@ -1,0 +1,9 @@
+::placeholder {
+    color: black;
+    opacity: 1;
+    /* Firefox */
+}
+
+.searchInput {
+    width: 20vw;
+}

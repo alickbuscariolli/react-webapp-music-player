@@ -1,0 +1,80 @@
+
+/* PADDING */
+.p-30 {
+    padding: 30px;
+}
+
+.pt-30 {
+    padding-top: 30px;
+}
+
+.pl-30 {
+    padding-left: 30px;
+}
+
+.pr-30 {
+    padding-right: 30px;
+}
+
+.pb-30 {
+    padding-bottom: 30px;
+}
+
+.pb-50 {
+    padding-bottom: 50px;
+}
+
+.px-30 {
+    padding: 0 30px;
+}
+
+.py-30 {
+    padding: 30px 0;
+}
+
+/* WIDTH */
+.w-100 {
+    width: 100vw;
+}
+
+/* COLUMN */
+
+.col {
+    display: flex;
+    flex-direction: column;
+}
+
+.col-4 {
+    width: 40vw;
+}
+
+.col-6 {
+    width: 60vw;
+}
+
+/* ROW */
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+/* SCREENS */
+.defaultScreen {
+    height: 100vh;
+    overflow: scroll;
+    overflow-x: hidden;
+    background-color: #eee;
+}
+
+/* TEXT ALIGNS */
+.text-align-end {
+    text-align: end;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.text-align-start {
+    text-align: start;
+}

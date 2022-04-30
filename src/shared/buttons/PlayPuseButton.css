@@ -1,0 +1,10 @@
+.playPauseButton img {
+    width: 2.0rem;
+    height: 2.0rem;
+    padding-top: 10px;
+}
+
+.playPauseButton {
+    padding: 0;
+    border: none;
+}

@@ -1,0 +1,7 @@
+.musicPlayerMobileControls {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    justify-content: center;
+    opacity: 0.8;
+}
